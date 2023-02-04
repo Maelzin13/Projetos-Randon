@@ -20,3 +20,12 @@
     transform: scaleX(1);
     transform-origin: bottom left;
 }
+
+div {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ 
